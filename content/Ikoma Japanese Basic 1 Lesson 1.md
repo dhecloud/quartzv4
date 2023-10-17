@@ -6,7 +6,7 @@ tags:
   - learn_japanese
 ---
 
-# あ、い、う、え、お、か、き、け 、こ
+# あ、い、う、え、お、か、き、く、け、こ
 > [!question]-  青い /あおい/アオイ   
 > `a o i`   
 > (adjective), blue  
@@ -118,7 +118,4 @@ tags:
 > [!question]- どうぞ、よろし 
 > `dōzo yoroshiku`  
 > nice to meet you (casual)
-
-
-
 
