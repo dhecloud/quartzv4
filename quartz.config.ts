@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "Andrew's Brain",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-K7CYZ688XJ },
+    analytics: { provider: 'google', tagId: 'G-K7CYZ688XJ' },
     baseUrl: "brain.dhecloud.xyz",
     ignorePatterns: ["private", "templates", ".obsidian","Readwise"],
     defaultDateType: "created",
