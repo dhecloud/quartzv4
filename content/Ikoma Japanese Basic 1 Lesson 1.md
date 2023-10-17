@@ -41,7 +41,7 @@ tags:
 > `chi/i ke`  
 > pond  
 > >	池魚の殃: collateral damage 
-
+  
 # あいさつ ai sa tsu/greetings
 > [!question]-  おはよう 
 > `ohayō`  
