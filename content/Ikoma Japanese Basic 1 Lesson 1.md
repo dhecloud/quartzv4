@@ -66,7 +66,7 @@ tags:
 > note: sakana 魚 also means fish - more common
 
 > [!question]-　王/おう/
-> `ou`  
+> `Ō` long sound    
 > king
 
 > [!question]-　声/こえ/コエ
