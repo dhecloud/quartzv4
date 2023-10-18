@@ -53,7 +53,7 @@ tags:
 
 > [!question]- 藍/あい/ アイ
 > `ai`  
-> indigo 
+> indigo  
 > same as hiragana and katakana as love 
 
 > [!question]- 会う/あう/ アウ
@@ -62,7 +62,7 @@ tags:
 
 > [!question]- /うお/
 > `uo`  
-> fish (in specific cases)
+> fish (in specific cases)  
 > note: sakana 魚 also means fish - more common
 
 > [!question]-　王/おう/
