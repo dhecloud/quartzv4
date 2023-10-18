@@ -8,20 +8,20 @@ tags:
 
 # あ、い、う、え、お、か、き、く、け、こ
 > [!question]-  青い /あおい/アオイ   
-> `a o i`   
+> `aoi`   
 > (adjective), blue  
 > Adding い (i) at the end of the noun makes “blue” an adjective. When just talking about the colour itself, it would just be あお.  
 
 > [!question]- 上 /うえ/ウエ
-> `u e`  
+> `ue`  
 > above, up, over, top
  
 > [!question]- 赤い/あかい/アカイ 
-> `a ka i`    
+> `akai`    
 > (adjective), red
 
 > [!question]- 駅 /えき/エキ 
-> `e ki`  
+> `eki`  
 > station
  
 > [!question]- /く/ク
@@ -30,18 +30,77 @@ tags:
 >  
  
 > [!question]- /ここ/ココ 
-> `ko ko`  
+> `koko`  
 > here/of this place
  
 > [!question]- 顔/かお/カオ 
-> `ka o`  
+> `kao`  
 > face
  
 > [!question]- 池/いけ/ 
-> `chi/i ke`  
+> `chi/ike`  
 > pond  
 > >	池魚の殃: collateral damage 
-  
+
+#### Extra practice
+> [!question]- 行く/いく/ イク
+> `iku`  
+> to go  
+
+> [!question]- 愛/あい/ アイ
+> `ai`  
+> love  
+
+> [!question]- 藍/あい/ アイ
+> `ai`  
+> indigo 
+> same as hiragana and katakana as love 
+
+> [!question]- 会う/あう/ アウ
+> `au`  
+> to go  
+
+> [!question]- /うお/
+> `uo`  
+> fish (in specific cases)
+> note: sakana 魚 also means fish - more common
+
+> [!question]-　王/おう/
+> `ou`  
+> king
+
+> [!question]-　声/こえ/コエ
+> `koe`  
+> voice
+
+> [!question]-　秋/あき/アキ
+> `aki`  
+> autumn
+
+> [!question]-　買う/かう/カウ
+> `kau`  
+> buy
+
+> [!question]-　空気/くうき/クウキ
+> `kūki`   
+> air
+
+> [!question]-　空港/くうこう/クウコウ
+> `kūkō`  
+> airport
+
+> [!question]-　貝/かい/カイ
+> `kai`  
+> shellfish
+
+> [!question]-　鯉/こい/コイ
+> `koi`  
+> koi/carp
+
+
+
+
+
 # あいさつ ai sa tsu/greetings
 > [!question]-  おはよう 
 > `ohayō`  
