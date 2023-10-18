@@ -58,7 +58,7 @@ tags:
 
 > [!question]- 会う/あう/ アウ
 > `au`  
-> to go  
+> to meet/see/encounter  
 
 > [!question]- /うお/
 > `uo`  
