@@ -97,6 +97,13 @@ tags:
 > `koi`  
 > koi/carp
 
+> [!INFO]-　e sounds＋い＝ē
+> えい
+
+> [!INFO]-　o sounds＋う＝ō
+> おう
+
+
 
 
 
