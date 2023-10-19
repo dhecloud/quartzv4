@@ -1,6 +1,6 @@
 ---
 title: Ikoma Japanese Basic 1 Lesson 1
-date: 17-10-2023
+date: 16-10-2023
 aliases: 
 tags:
   - learn_japanese
