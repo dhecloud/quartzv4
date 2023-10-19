@@ -185,3 +185,4 @@ tags:
 > `dōzo yoroshiku`  
 > nice to meet you (casual)
 
+おなじonaji same
