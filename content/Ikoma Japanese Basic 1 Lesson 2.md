@@ -115,3 +115,5 @@ Add o in front when asking question
 
 しゅふhousewife shu fu 
 O shi goto wa nan desu ka
+
+おなじonaji same

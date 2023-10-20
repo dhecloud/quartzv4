@@ -1,6 +1,7 @@
 Sibeth protected by too much plot armor
-Interesting to see how blind adapted to conditions (knotted ropes for messages)
+Interesting to see how blind adapted to conditions (knotted ropes for messages) what happened to braille though, knots can't be that 't be that meaningful
 
+extremely weird that sibeth's idea of god is basically an orgasm
 Would be interesting to see a deaf blind character
 
 Considering they were sighted u would think there would be more elaborate traps- but bow and arrow considered a level up
@@ -20,9 +21,7 @@ S2e8
 - traps were cool! Napalm, ice floor 
 - Boy controlling a crossbow attack unit and shouting out directions with a drum was cute
 
-
-really dislike kofun's wimpiness, petulant sulking and moody tantrums this season
-
 really dislike kofun's wimpiness, petulant sulking and moody tantrums this season
 
 did the average IQ of the population go down with the virus?
+quite apt social commentary

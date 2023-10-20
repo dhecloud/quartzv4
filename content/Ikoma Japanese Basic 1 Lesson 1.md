@@ -184,5 +184,3 @@ tags:
 > [!question]- どうぞ、よろし 
 > `dōzo yoroshiku`  
 > nice to meet you (casual)
-
-おなじonaji same
