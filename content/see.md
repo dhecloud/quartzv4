@@ -19,3 +19,10 @@ S2e8
 - fighting was amusing- almost like return based- people couldn’t dodge because they literally couldn’t see them 
 - traps were cool! Napalm, ice floor 
 - Boy controlling a crossbow attack unit and shouting out directions with a drum was cute
+
+
+really dislike kofun's wimpiness, petulant sulking and moody tantrums this season
+
+really dislike kofun's wimpiness, petulant sulking and moody tantrums this season
+
+did the average IQ of the population go down with the virus?
