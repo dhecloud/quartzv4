@@ -62,7 +62,7 @@ tags:
 >> Can you take out the rubbish please?
 
 >[!question]- 可笑しい/おかしい/オカシイ
->`kashii`  
+>`okashii`  
 >funny/ridiculous/strange/odd
 
 >[!question]-  海驢/あしか/アシカ
