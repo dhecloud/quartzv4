@@ -38,7 +38,7 @@ tags:
 >physical education
 
 >[!question]-  靴/くっ/クツ
->`ku shu`  
+>`ku tsu`  
 >shoes
 
 
