@@ -60,7 +60,7 @@ tags:
 >> ごみを外に出してくれますか？  
 >>_gomi o soto ni dashite kuremasu ka?_  
 >> Can you take out the rubbish please?
-
+#### Extra practice
 >[!question]- 可笑しい/おかしい/オカシイ
 >`okashii`  
 >funny/ridiculous/strange/odd
@@ -69,51 +69,52 @@ tags:
 >`a shi ka`  
 >sea lion
 
->[!question]-  //
->``  
+>[!question]-  一/いち/イチ
+>`ichi`  
+> 1
 
->[!question]-  //
->``  
+>[!question]-  美味しい/おいしい/オイシイ
+>`oishii`  
+> tasty/delicious/nice
 
->[!question]-  //
->``  
+>[!question]-  遠い/とおい/トオイ
+>`tōi`  
+> far/distant
+#### Numbering
 
->[!question]-  //
->``  
+1. ばん `ban` - turn/number\
+	No. 1 would be いちばん `ichi ban`
+2. ページ `pēji` - page\
+3.  行 `gyō` row
 
->[!question]-  //
->``  
-
-
-Ban = no.
-
-おfor noun, verb, adjective名詞動詞形容詞  
-をparticle助詞
-
-行gyō row
-
-丶ten 点
-Ten ten ､、
-か+､、=が
-
-。maruまる丸
-
-
-Page = pé ji
-さしすせそ
-
-たちってと
+#### Grammar
+1. 点 -丶`ten` 
+2. 点点 - 丶丶`Ten ten`\
+	か+､、=  が
+3. 丸/まる - 。`maru`  
+4.  お `o` for noun, verb, adjective名詞動詞形容詞    
+5. を`o` particle助詞    
+> [!info]-  行 w version of お
 
 
 
-<にku Ni country
-なまえNa ma e name.
-Add o in front when asking question
-0 ku Ni o Na Na e
-自営業社長
+
+#### Job  仕事
+1. 自営業社長 `jieigyō shachō` - self employed
+2. しゅふ `shufu` - housewife 
+O shigoto wa nan desu ka
+
+#### Vocab
+
+1. <に`ku ni` - country
+2. おなじ`onaji` - same
+3. 名前/なまえ`na mae` - name.
 
 
-しゅふhousewife shu fu 
-O shi goto wa nan desu ka
-
-おなじonaji same
+#### Asking a question with お
+お adds politeness
+1. お仕事は何ですか
+	- `O shigoto wa nan desu ka`
+	- what is your job?
+2. お名前は何ですか
+	- `O namae wa nan desu ka`
