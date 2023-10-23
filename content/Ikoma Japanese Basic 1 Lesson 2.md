@@ -94,7 +94,7 @@ tags:
 3. 丸/まる - 。`maru`  
 4.  お `o` for noun, verb, adjective名詞動詞形容詞    
 5. を`o` particle助詞    
-> [!info]-  行 w version of お
+	-  行 w version of お
 
 
 
