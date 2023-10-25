@@ -62,9 +62,9 @@ tags:
 >  listen: https://www.youtube.com/shorts/hXuMsHEASXI  
 
 # Counting for 百
-ひhyaku
-びbyaku for 300
-ぴppyaku for 600 and 800
+ひhyaku  
+びbyaku for 300  
+ぴppyaku for 600 and 800  
 
 
 
