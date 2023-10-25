@@ -59,7 +59,9 @@ tags:
 > [!question]- 端/はし/ ハシ\
 >  `hashi` (low high high, sound very similar to bridge)\
 >  edge/end
->  listen: https://www.youtube.com/shorts/hXuMsHEASXI  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXuMsHEASXI?si=yljp02qmm-69nsIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Counting for 百
 ひhyaku  
