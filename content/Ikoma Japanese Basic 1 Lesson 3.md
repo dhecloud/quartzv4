@@ -37,7 +37,7 @@ tags:
 > `fune`\
 > boat
 
-> [!question]- あの人
+> [!question]- あの人/あのひと/アノ ヒト
 > `ano hito`\
 > that person
 
