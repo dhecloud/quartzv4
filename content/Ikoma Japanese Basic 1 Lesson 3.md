@@ -22,7 +22,7 @@ tags:
 > cat
 
 > [!question]- 箸/はし/ ハシ\
->  `hashi`\
+>  `hashi`(high low)\
 >  chopsticks
 
 > [!question]- 花/はな/ ハナ\
@@ -45,10 +45,22 @@ tags:
 >  `hoshi`\
 >  star
 
-
 >[!question]- 肉/にく/ ニク 
 >`niku`  
 > meat
+
+# Extra Practice
+
+
+> [!question]- 橋/はし/ ハシ\
+>  `hashi` (low high low)\
+>  bridge
+
+> [!question]- 端/はし/ ハシ\
+>  `hashi` (low high high, sound very similar to bridge)\
+>  edge/end
+>  listen: https://www.youtube.com/shorts/hXuMsHEASXI  
+
 # Counting for 百
 ひhyaku
 びbyaku for 300
