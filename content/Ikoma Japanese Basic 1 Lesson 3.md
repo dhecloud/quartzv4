@@ -26,8 +26,9 @@ tags:
 >  chopsticks
 
 > [!question]- 花/はな/ ハナ\
->  `hana`\
+>  `hana`(low high)\
 >  flower
+>  "odaka" word. particle after odaka word is low pitch
 
 > [!question]- 人/ひと/ ヒト\
 > `hito`\
@@ -62,7 +63,11 @@ tags:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hXuMsHEASXI?si=yljp02qmm-69nsIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+> [!question]- 鼻/はな/ ハナ\
+>  `hana`(low high)\
+>  nose
+>  "heiban" word. particle after odaka word is high pitch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ATkCZp7rVH4?si=Grqm1nliPzAIdseR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Counting for 百
 ひhyaku  
 びbyaku for 300  
