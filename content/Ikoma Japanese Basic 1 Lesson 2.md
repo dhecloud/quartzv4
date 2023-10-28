@@ -109,6 +109,7 @@ O shigoto wa nan desu ka
 1. <に`ku ni` - country
 2. おなじ`onaji` - same
 3. 名前/なまえ`na mae` - name.
+4. ともだち`tomodachi`-friends
 
 
 #### Asking a question with お
