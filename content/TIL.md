@@ -5,4 +5,4 @@ aliases:
 tags: []
 ---
 
-Today I learnt
+Today I learnt about (look at linked notes)
