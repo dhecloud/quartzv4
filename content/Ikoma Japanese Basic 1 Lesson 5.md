@@ -5,3 +5,11 @@ aliases:
 tags:
   - learn_japanese
 ---
+はparticle write ha but read wa
+
+
+わたしはにほんじん
+
+段ー column dan
+
+だれda re who?
