@@ -16,7 +16,7 @@ tags:
 > music
 
 > [!question]- 鍵/かぎ/ カギ 
-> `kagi`  
+> `kagi`(low high)\
 > key
 
 > [!question]- 卵/たまご/ タマゴ 
@@ -50,12 +50,49 @@ tags:
 # だ 、ぢ、づ 、で、ど、ば、び、ぶ、べ、ぼ
 
 
-くだもの
-でんわ
-こども
+
+> [!question]- 果物/くだもの/ クダモノ 
+> `kudamono`  
+> fruit
+
+> [!question]- 電話/でんわ/ デンワ 
+> `denwa`  
+> telephone
+
+> [!question]- 子供/こども/ コドモ 
+> `kodomo`  
+> child
+
+> [!question]- 鞄/かばん/ カバン 
+> `kaban`  
+> bag
+
+> [!question]- 晩ご飯/ばんごはん/ バンゴハン 
+> `bangohan`  
+> dinner
+
+> [!question]- 算盤/そろばん/ ソロバン 
+> `soroban`  
+> abacus
+
+> [!question]- 花火/はなび/ ハナビ 
+> `hanabi`  
+> fireworks
+
+> [!question]- 新聞/しんぶん/ シンブン 
+> `shinbun`  
+> newspaper
+
+> [!question]- 食べ物/たべもの/ タベモノ 
+> `tabemono`  
+> food
+
+> [!question]- 僕/ぼく/ ボク 
+> `boku`  
+> I (used by males)
 
 
-
-このけしゴムはだれのですか
+# Question
+このけしゴムはだれのですか\
 このけしゴムはwangさんのけしゴムです
 
