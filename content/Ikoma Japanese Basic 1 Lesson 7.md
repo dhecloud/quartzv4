@@ -44,7 +44,8 @@ tags:
 > `ippon`  
 > one (long, cylindrical object)
 
-> [!question]- 六本/ろっぽん/ ロッポン `roppon`  
+> [!question]- 六本/ろっぽん/ ロッポン 
+> `roppon`  
 > six (long, cylindrical objects)
 
 > [!question]- 八本/はっぽん/ ハッポン 
