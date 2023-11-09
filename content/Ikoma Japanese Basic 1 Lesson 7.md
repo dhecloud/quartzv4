@@ -105,8 +105,8 @@ tags:
 > `doyoubi`  
 > Saturday
 
-> [!question]- 赤ちゃん/あかあさん/ アカアサン 
-> `akaachan`  
+> [!question]- お母さん/おかあさん/ オカアサン 
+> `okaasan`\
 > mother
 
 > [!question]- おばあさん/おばあさん/ オバアサン 
