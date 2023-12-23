@@ -4,6 +4,8 @@ date: 23-10-2023
 aliases: 
 tags:
   - "#learn_japanese"
+  - hiragana
+  - ikoma
 ---
 
 # な、に、ぬ、ね、の、は、ひ、ふ、へ、ほ

@@ -4,6 +4,8 @@ date: 09-11-2023
 aliases: 
 tags:
   - learn_japanese
+  - "#hiragana"
+  - ikoma
 ---
 # Vocabulary
 

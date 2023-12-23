@@ -4,6 +4,8 @@ date: 06-11-2023
 aliases: 
 tags:
   - learn_japanese
+  - hiragana
+  - ikoma
 ---
 # ぱ、ぴ、ぷ、ぺ、ぽ
 
