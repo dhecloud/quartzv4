@@ -8,7 +8,7 @@ tags:
 article_url: https://www.youtube.com/shorts/wLe1N0JhX0s
 ---
 
-
+{私}^{わたし}
 # Unnatural
 {私|わたし}の{名|な}{前|まえ}は「name」です。
 
