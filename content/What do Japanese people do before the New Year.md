@@ -1,5 +1,5 @@
 ---
-title: Untitled 1
+title: What do Japanese people do before the New Year
 date: 29-12-2023
 aliases: 
 tags:

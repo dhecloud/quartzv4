@@ -11,8 +11,12 @@
             "id": "645029086b683e84",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "dailies/01-01-2024.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "dailies/01-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "dailies/01-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "dailies/01-01-2024.md"
+              }
             }
           },
           {
@@ -156,8 +164,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "64625ae5fe1cf4f9",
+  "active": "645029086b683e84",
   "lastOpenFiles": [
+    "What do Japanese people do before the New Year.md",
+    "dailies/01-01-2024.md",
+    "2024-01-01.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Readwise/Articles/Inside Apple's Massive Push to Transform the Mac Into a Gaming Paradise.md",
     "podcasts/The_Foreign_Affairs_Interview_What_Putin_Got_Wrong_About_Ukraine_Russia_and_the_West.md"
   ]
 }
