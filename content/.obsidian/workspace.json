@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/01-01-2024.md",
+                "file": "dailies/02-01-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/01-01-2024.md",
+                "file": "dailies/02-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/01-01-2024.md",
+                "file": "dailies/02-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/01-01-2024.md"
+                "file": "dailies/02-01-2024.md"
               }
             }
           },
@@ -166,8 +166,9 @@
   },
   "active": "645029086b683e84",
   "lastOpenFiles": [
-    "What do Japanese people do before the New Year.md",
     "dailies/01-01-2024.md",
+    "dailies/02-01-2024.md",
+    "What do Japanese people do before the New Year.md",
     "2024-01-01.md",
     "Untitled 1.md",
     "Untitled.md",
