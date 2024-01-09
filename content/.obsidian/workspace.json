@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Telling Time in Japanese.md",
+                "file": "Dates in Japanese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Telling Time in Japanese.md",
+                "file": "Dates in Japanese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Telling Time in Japanese.md"
+                "file": "Dates in Japanese.md"
               }
             }
           },
@@ -201,12 +201,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a43ac1ac54bc922d",
+  "active": "b1b858a232a5e147",
   "lastOpenFiles": [
-    "Japanese Numbers.md",
     "Days in Japanese.md",
-    "Dates in Japanese.md",
     "Telling Time in Japanese.md",
+    "Japanese Numbers.md",
+    "Dates in Japanese.md",
     "Ikoma Japanese Basic 1 Lesson 3.md",
     "Upscaling.md",
     "dailies/08-01-2024.md",
