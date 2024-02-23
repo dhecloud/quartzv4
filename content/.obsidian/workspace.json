@@ -37,20 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dates in Japanese.md",
+                "file": "dailies/23-02-2024.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eadb19be5c21bc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Days in Japanese.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "counting",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dates in Japanese.md",
+                "file": "dailies/23-02-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dates in Japanese.md",
+                "file": "dailies/23-02-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dates in Japanese.md"
+                "file": "dailies/23-02-2024.md"
               }
             }
           },
@@ -201,14 +188,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b1b858a232a5e147",
+  "active": "6a6892273821ce34",
   "lastOpenFiles": [
+    "Days in Japanese.md",
+    "dailies/23-02-2024.md",
+    "Dates in Japanese.md",
+    "Omotenashi.md",
+    "dailies/08-02-2024.md",
+    "Travel List.md",
+    "Karasawa Cirque.md",
+    "Kamikōchi.md",
+    "dailies/02-02-2024.md",
+    "Johari Window.md",
+    "dailies/28-01-2024.md",
     "wet bulb temperatures.md",
     "dailies/12-01-2024.md",
-    "Days in Japanese.md",
     "Telling Time in Japanese.md",
     "Japanese Numbers.md",
-    "Dates in Japanese.md",
     "Ikoma Japanese Basic 1 Lesson 3.md",
     "Upscaling.md",
     "dailies/08-01-2024.md",
