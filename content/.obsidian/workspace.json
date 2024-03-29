@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/23-02-2024.md",
+                "file": "たかこ先生 italki trial.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "italki",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailies/23-02-2024.md",
+                "file": "たかこ先生 italki trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailies/23-02-2024.md",
+                "file": "たかこ先生 italki trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailies/23-02-2024.md"
+                "file": "たかこ先生 italki trial.md"
               }
             }
           },
@@ -188,10 +189,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a6892273821ce34",
+  "active": "b1b858a232a5e147",
   "lastOpenFiles": [
-    "Days in Japanese.md",
     "dailies/23-02-2024.md",
+    "たかこ先生 italki trial.md",
+    "attachments/Pasted image 20240329111921.png",
+    "dailies/27-03-2024.md",
+    "Days in Japanese.md",
     "Dates in Japanese.md",
     "Omotenashi.md",
     "dailies/08-02-2024.md",
@@ -215,7 +219,6 @@
     "What do Japanese people do before the New Year.md",
     "2024-01-01.md",
     "Untitled 1.md",
-    "Readwise/Articles/Inside Apple's Massive Push to Transform the Mac Into a Gaming Paradise.md",
-    "podcasts/The_Foreign_Affairs_Interview_What_Putin_Got_Wrong_About_Ukraine_Russia_and_the_West.md"
+    "Readwise/Articles/Inside Apple's Massive Push to Transform the Mac Into a Gaming Paradise.md"
   ]
 }
