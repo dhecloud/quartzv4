@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b5f3575103ba541",
+        "id": "65f10ad2ca31b77c",
         "type": "tabs",
         "children": [
           {
-            "id": "25f2b1e903699523",
+            "id": "c843657bc0c93267",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -61,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,36 +155,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "25f2b1e903699523",
+  "active": "c843657bc0c93267",
   "lastOpenFiles": [
-    "たかこ先生 italki trial.md",
-    "Telling Time in Japanese.md",
-    "Japanese Numbers.md",
-    "dailies/23-02-2024.md",
-    "attachments/Pasted image 20240329111921.png",
-    "dailies/27-03-2024.md",
-    "Days in Japanese.md",
-    "Dates in Japanese.md",
-    "Omotenashi.md",
-    "dailies/08-02-2024.md",
-    "Travel List.md",
-    "Karasawa Cirque.md",
-    "Kamikōchi.md",
-    "dailies/02-02-2024.md",
-    "Johari Window.md",
-    "dailies/28-01-2024.md",
-    "wet bulb temperatures.md",
-    "dailies/12-01-2024.md",
-    "Ikoma Japanese Basic 1 Lesson 3.md",
-    "Upscaling.md",
-    "dailies/08-01-2024.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "dailies/02-01-2024.md",
-    "dailies/01-01-2024.md",
+    "Japanese/たかこ先生 italki trial.md",
+    "Japanese/Japanese Sentence Structures.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 1.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 7.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 2.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 6.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 3.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 8.md",
+    "Japanese/Japanese Numbers.md",
+    "Japanese/What do Japanese people do before the New Year.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 4.md",
+    "Japanese/Ikoma Japanese Basic 1 Lesson 5.md",
+    "Japanese/Dates in Japanese.md",
+    "Japanese/Telling Time in Japanese.md",
+    "Japanese/Days in Japanese.md",
+    "Japanese/Saying your name in Japanese.md",
+    "Japanese",
     "What do Japanese people do before the New Year.md",
-    "2024-01-01.md",
-    "Untitled 1.md",
-    "Readwise/Articles/Inside Apple's Massive Push to Transform the Mac Into a Gaming Paradise.md"
+    "Saying your name in Japanese.md",
+    "Ikoma Japanese Basic 1 Lesson 8.md",
+    "Ikoma Japanese Basic 1 Lesson 7.md",
+    "Ikoma Japanese Basic 1 Lesson 6.md",
+    "Ikoma Japanese Basic 1 Lesson 5.md",
+    "Ikoma Japanese Basic 1 Lesson 4.md",
+    "Ikoma Japanese Basic 1 Lesson 3.md",
+    "Ikoma Japanese Basic 1 Lesson 2.md",
+    "Ikoma Japanese Basic 1 Lesson 1.md",
+    "attachments/Pasted image 20240329111921.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
