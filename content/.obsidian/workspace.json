@@ -11,8 +11,12 @@
             "id": "c843657bc0c93267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md"
+              }
             }
           },
           {
@@ -157,6 +165,8 @@
   },
   "active": "c843657bc0c93267",
   "lastOpenFiles": [
+    "Japanese/たかこ先生 italki 話して練習0 290324.md",
+    "Japanese/たかこ先生 italki 話して練習1 030424.md",
     "Japanese/たかこ先生 italki trial.md",
     "Japanese/Japanese Sentence Structures.md",
     "Japanese/Ikoma Japanese Basic 1 Lesson 1.md",
@@ -182,8 +192,6 @@
     "Ikoma Japanese Basic 1 Lesson 5.md",
     "Ikoma Japanese Basic 1 Lesson 4.md",
     "Ikoma Japanese Basic 1 Lesson 3.md",
-    "Ikoma Japanese Basic 1 Lesson 2.md",
-    "Ikoma Japanese Basic 1 Lesson 1.md",
     "attachments/Pasted image 20240329111921.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
