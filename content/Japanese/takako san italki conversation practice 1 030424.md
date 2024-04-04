@@ -1,5 +1,5 @@
 ---
-title: たかこ先生 italki 話して練習1 030424
+title: takako san italki conversation practice 1 030424
 date: 03-04-2024
 aliases: 
 tags:
@@ -34,43 +34,24 @@ A: 来週は、旅行します。
 Next week, i will go on holiday
 A: タイのお正月なので、バンコクに行きます。
 It's Thai New Year, so I'm going to Bangkok.
-  
 
-シンガポール人です。
-
-  
-
-パーティーに行って、遊びます。
-
-　　　　　で遊びます。
-
-  
-
-誰と行きますか？
-
-友達と行きます。
-
-  
-
-どんな友達？
-
-大学の友達です。
-
-  
-
-昔（むかし）からの友達です。
-
-LONG AGO
-
-  
-
-OLD Friend
-
-親友（しんゆう）ですか？
-
-BEST Friend
-
-毎日、メッセージを送ります。
+A: シンガポール人です。
+I am singaporean (in response to a question about my parents)
+A: パーティー(に行って、遊びます。/ で遊びます)。
+I am going to party and have fun　　　　
+S: 誰と行きますか？
+Who am i going with?
+A: 友達と行きます。
+Going with friends?
+S: どんな友達？
+What kind of friend?
+A: 大学の友達です。
+University friend.
+A: {昔|むかし}からの友達です。
+With old friends
+S: {親友|しん|ゆう} ですか？
+Is it your BEST Friend?
+A: 毎日、メッセージを送ります。
 
 　　　テキスト
 

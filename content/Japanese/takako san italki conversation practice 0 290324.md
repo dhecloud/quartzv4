@@ -1,5 +1,5 @@
 ---
-title: たかこ先生 italki trial
+title: takako san italki conversation practice 0 290324
 date: 29-03-2024
 aliases: 
 tags:
@@ -11,7 +11,6 @@ tags:
 Andrewさんの初めてのレッスン
 
 S: はじめまして！
-
 A: 今、大雨です。
 
 S: 自己紹介（じこしょうかい）してください。  
