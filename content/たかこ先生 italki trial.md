@@ -1,0 +1,217 @@
+---
+title: たかこ先生 italki trial
+date: 29-03-2024
+aliases: 
+tags:
+  - learn_japanese
+  - italki
+---
+2024年3月29日
+Andrewさんの初めてのレッスン
+
+S: はじめまして！
+
+A: 今、大雨です。
+
+S: 自己紹介（じこしょうかい）してください。  
+please introduce yourself
+
+A: アンドリューさん. 
+my name is andrew
+今年、３０歳です。  
+i am 30 this year  
+コンピューター研究者（けんきゅうしゃ） 
+i am a computer scientist. 
+AIの研究者です。  
+I am AI researcher.  
+犬と、二人暮らし（ふたりぐらし）です。  
+I live with my dog  
+犬は、かわいい？  
+my dog is cute  
+  
+S: どんな犬ですか？  
+what kind of dog  
+A:ミックス犬です。  
+mixed breed   
+Sミックス犬（けん）  
+mixed dog (ken)  
+または、  
+or  
+雑種（ざっしゅ）の犬です。  
+hybrid dog
+  
+A: 犬の誕生日は、今週です！！  
+My dog birthday is this week  
+３月２５日　今、2歳です。  
+25th of march. 2 years old  
+  
+S: 質問があります。  
+I have a question  
+趣味（しゅみ）は何ですか？  
+what is your hobby?  
+  
+A: 日本語の勉強が趣味です。  
+studying japanese is my hobby  
+  
+ゲームをすること  
+ゲームです。  
+playing games (both answers are fine)  
+
+S: どんなゲーム？？  
+what kind of game?  
+A: ファンタジーゲームが好きです。  
+I like fantasy game  
+ファイナルファンタジー  
+final fantasy  
+
+S: https://www.youtube.com/watch?v=1KjYKDcl1Ck  
+この{ボーカル|bo||ka|ru}は、私の友達です。  
+My friend is the vocalist for this song  
+　　　　　　　　{遠藤フビト|えん|ど|fu|bi|to}くんです。  
+
+S: どうして日本語を勉強したいんですか？  
+Why did you study japanese?  
+A: アニメが好きです。  
+I like anime  
+S: どんなアニメを見ますか？  
+What kind of anime do you watch?  
+A: 少年のアニメ  
+Shounen anime  
+S: 私の{夫|おっと}もアニメが大好きです。  
+My husband also really likes anime  
+
+S: シンガポールで{産|う}まれましたか？  
+Were you born in singapore?  
+
+(unsure if sensei typed the wrong kanji (産 vs生)  
+viewing 産 as more related to production whereas 生 is inherently more related to life, as a general concept, e.g. 生物、生いきる、生活)  
+
+A: ここで、{産|u}まれて、{育|そだ}ちました。  
+I was born and raised here  
+
+S: 日本に来たことはありますか？  
+Have you been to japan  
+A: ２回行きました。  
+I have been twice  
+初めは、東京　大阪　京都に行きました。  
+I went to tokyo, osaka and kyoto the first time  
+２{回目|かい|め}大阪　神戸　名古屋  
+The second time, i went to osaka, kobe and nagoya  
+S: どこが一番好きでしたか？  
+＝どの場所が一番好きでしたか？  
+Which place do you like the best?  
+
+A: お台場  
+odaiba  
+大きなガンダムもあるし、好きです。  
+There is also a big gundam, which i like  
+  
+滝（たき）  
+waterfall
+  
+今年は、７月、沖縄に行きます！！  
+In july i will go to okinawa   
+  
+スキューバーダイビングなど、海のスポーツをやります。  
+I do water sports like scuba diving (note [する vs やる](https://japanese.stackexchange.com/questions/15383/differences-in-usage-between-%E3%81%99%E3%82%8B-and-%E3%82%84%E3%82%8B))  
+  
+S: 沖縄人は、東京の言葉もわかります。  
+Okinawans will understand the language of tokyo  
+  
+東京の言葉は、{共通語|きょう|つう|ご} です。  
+Tokyo's language is standard japanese  
+  
+会社は、家の{近|ちか}くですか？  
+is your office near to your home  
+  
+A: 家で働いています。  
+I work at home  
+便利です。  
+Very convenient  
+
+S: どうやって、{気分|き|ぶん}{転換|てん|かん}をしていますか？  
+How (どうやって) do you have a mental break? (気分転換=break)  
+  
+
+A: (misunderstood the question, thought she was asking how i wash up in the morning)    
+シャワーを浴びたり、歯を磨いたり、  
+犬と遊んだり・・・  
+
+犬は、家の下で{糞|ふん}をします。  
+
+動物のうんち＝{糞|ふん}💩  
+
+(real answer)  
+寝ることで、{気分|き|ぶん}{転換|てん|かん}をします。  
+Sleeping refreshes my mood  
+寝て{気分|き|ぶん}{転換|てん|かん}をします。  
+
+S: よく寝ますか？  
+Do you sleep  often?  
+A:昼寝します。  
+I take afternoon naps  
+S:どのくらい？  
+How long?  
+A: いつも１時間くらい寝ます。  
+About one hour  
+
+S: 食事は、どうしていますか？  
+How do you eat?  
+{自分|じ|ぶん}で{作|つ}っていますか？  
+Do you make it yourself?  
+A: 簡単な食べ物なら作れます。  
+I can make simple food  
+A: 家がとても小さいので、キッチンも小さいです。  
+My house is small, the kitchen is also small  
+A: そんなにスペースがありません。  
+There isn't much space   
+A: 掃除が大変です。  
+Cleaning is difficult  
+
+S:犬がいるから？  
+Is it because of your dog?  
+
+A: 料理の{片付け|かた|づ|け}が大変です。  
+Cleaning up the food is difficult.  
+
+S: 私に、質問はありますか？  
+Do you have any questions for me?  
+A: たかこさんは、東京に住んでいますか？  
+Where do you live in tokyo?  
+S:東京の{練馬|区ね|りま|く}に住んでいます。  
+I live in nerima ward  
+
+
+![[Pasted image 20240329111921.png]]
+
+
+便利です、でも、都会ではありません。  
+Convenient, but it is not at the city center  
+渋谷、新宿、池袋まで、それぞれ３０分くらいです。  
+It is about 30 mins to to go to shibuya, shinguku, ikebukuro  
+
+A: 遠くないです。  
+It is not far  
+A: (in response to a comment that my jap is better than N5 hehe) 頑張ってます！  
+
+S: 日本語を話す、{機会|きかい}はありますか？  
+Do you have chance to speak japanese? (チャンス is also ok)  
+A: シンガポールの日本語学校は、  
+月木（げつもく）、週２回あります。  
+I go to japanese school twice a week  
+学生は、たくさんいます。  
+There are many students  
+練習のチャンスがありません。  
+Not many chance to practice  
+
+S: いつから日本語の勉強を始めましたか？  
+When did you start learning japanese?  
+
+A: ２６２日前から日本語をアプリで勉強はじめました。  
+(because duolingo counts the day) i started learning on the app 262 days ago  
+それから、学校に入りました。  
+After that, i entered school  
+  
+よくできました！  
+Good job!  
+
