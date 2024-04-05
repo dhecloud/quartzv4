@@ -991,27 +991,6 @@ var HardLineBreaks = /* @__PURE__ */ __name(() => {
   };
 }, "HardLineBreaks");
 
-// quartz/plugins/transformers/furigana.ts
-import MarkdownIt from "markdown-it";
-import MarkdownItRuby from "markdown-it-ruby";
-var Furigana = /* @__PURE__ */ __name((options2) => {
-  const md = new MarkdownIt();
-  if (options2 && options2.ruby) {
-    md.use(MarkdownItRuby, options2.ruby);
-  } else {
-    md.use(MarkdownItRuby);
-  }
-  return {
-    name: "Furigana",
-    markdownToHtml(markdown) {
-      return md.render(markdown);
-    },
-    externalResources() {
-      return {};
-    }
-  };
-}, "Furigana");
-
 // quartz/plugins/filters/draft.ts
 var RemoveDrafts = /* @__PURE__ */ __name(() => ({
   name: "RemoveDrafts",
@@ -2974,8 +2953,7 @@ var config = {
       CrawlLinks({ markdownLinkResolution: "shortest" }),
       Latex({ renderEngine: "katex" }),
       Description(),
-      HardLineBreaks(),
-      Furigana()
+      HardLineBreaks()
     ],
     filters: [RemoveDrafts()],
     emitters: [
