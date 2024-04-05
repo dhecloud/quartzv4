@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "65f10ad2ca31b77c",
+        "id": "cac41e14317d593c",
         "type": "tabs",
         "children": [
           {
-            "id": "c843657bc0c93267",
+            "id": "6bd6f7749f2aa10b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Japanese/たかこ先生 italki 話して練習1 030424.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,10 +155,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c843657bc0c93267",
+  "active": "6bd6f7749f2aa10b",
   "lastOpenFiles": [
-    "Japanese/たかこ先生 italki 話して練習0 290324.md",
     "Japanese/たかこ先生 italki 話して練習1 030424.md",
+    "Japanese/ない-FORM.md",
+    "Japanese/辞書-FORM.md",
+    "Japanese/た-FORM.md",
+    "Japanese/て-FORM.md",
+    "Japanese/たかこ先生 italki 話して練習0 290324.md",
     "2021 Taliban offensive.md",
     "Chicago Plan.md",
     "Bernie Madoff.md",
@@ -187,10 +183,6 @@
     "Japanese/Japanese Sentence Structures.md",
     "Japanese/Ikoma Japanese Basic 1 Lesson 1.md",
     "Japanese/Ikoma Japanese Basic 1 Lesson 7.md",
-    "Japanese/Ikoma Japanese Basic 1 Lesson 2.md",
-    "Japanese/Ikoma Japanese Basic 1 Lesson 6.md",
-    "Japanese/Ikoma Japanese Basic 1 Lesson 3.md",
-    "Japanese/Ikoma Japanese Basic 1 Lesson 8.md",
     "Japanese",
     "attachments/Pasted image 20240329111921.png",
     "Untitled 1.canvas",

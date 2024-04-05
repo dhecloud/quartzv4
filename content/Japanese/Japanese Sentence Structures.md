@@ -93,7 +93,7 @@ indicates a time by which an event/action must be completed
 I have to return the book by saturday
 
 ```
-Ｎができます
+Ｎ ができます
 V辞書-FORMことができます
 ```
 [[辞書-FORM]]:  Can do.. (have the ability to..)
