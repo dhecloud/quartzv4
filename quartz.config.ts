@@ -54,7 +54,6 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
       Plugin.HardLineBreaks(),
-      Plugin.Furigana(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
