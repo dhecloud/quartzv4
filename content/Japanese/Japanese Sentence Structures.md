@@ -165,3 +165,85 @@ Get cold
 Get better
 25歳になります
 Turn 25 years old
+```
+plain form と思います。
+```
+[[plain form]]: Expressing conjecture, or to state an opinion
+あした雨が降ると思います。
+I think it is going to rain tomorrow
+知らないと思います
+I don't think he knows
+```
+plain form と言います 
+「sentence」 と言います 
+```
+[[plain form]]: reporting speech directly, or indirectly
+寝る前に、「おやすみなさい」と言います
+We say "good night" before bed
+ミラーさんは東京へ{出張|しゅっ|ちょう}するといいました
+Mr Miller said that he would be going to Tokyo on business
+```
+{V, い-ADJ, な-ADJ} plain form でしょう？
+N (*no だ*) plain form でしょう？
+```
+[[plain form]]: to seek agreement. used with rising intonation
+あした　パーティーに行くでしょう？
+You're going to the party tomorrow, right?
+```
+N1 (place)　で　N2 (お祭り)　が　あります
+```
+N2 (festival/event) is held at at N1 (place)
+```
+N でも V
+```
+To recommend, suggest something
+ちょっと　ビールでも　飲みませんか
+How about drinking a beer or something?
+```
+Vない-FORM ないと。。。
+```
+Similar to なければなりません
+もう帰らないと。。。
+I have to be getting home...
+```
+V辞書-FORM 時間/約束/用事
+```
+[[辞書-FORM]]: to describe appointment, errand
+朝ごはんを　食べる時間　があまりません
+I have no time to eat breakfast
+友達とえいがを　見る約束　が　あります
+I have arranged to see a film with some friends
+```
+Vます-form ましょうか
+```
+[[Vます-FORM]]: shall we..
+行きましょうか?
+Shall we go?
+```
+V辞書-FORM　とき　、　～
+Vない-FORM　とき　、　～
+い-ADJ　とき　、　～
+な-ADJ　とき　、　～
+N の　とき　、　～
+```
+[[辞書-FORM]], [[ない-FORM]], to connect two ideas using time
+図書館で本を借りる時、カードが要ります
+You need your card when you borrow a book from the library
+使い方がわからない時、私に聞いてください
+If you don't know how to use it , please ask me
+```
+V辞書-FORM　とき　、　～
+Vた-FORM　とき　、　～
+```
+[[辞書-FORM]],　[[た-FORM]]: When in dictionary form, the main clause happened after the the first clause. When in ta form,  main clause happened before the the first clause.
+パリへ　行くとき、　鞄を買いました
+I bought a bag when going to Paris (ie bought before arriving in Paris)
+パリへ　行ったとき、　鞄を買いました
+I bought a bag after arriving in Paris
+```
+V辞書-FORM　と　、　～
+```
+[[辞書-FORM]], main clause will inevitably occur after first clause
+右みぎへ曲がると、郵便局があります
+If you turn right, you will see a post office
+
