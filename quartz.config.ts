@@ -7,6 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: { provider: 'google', tagId: "G-W5NEZB8DVH" },
+    locale: "en-GB",
     baseUrl: "brain.dhecloud.xyz",
     ignorePatterns: ["private", "templates", ".obsidian","Readwise"],
     defaultDateType: "created",

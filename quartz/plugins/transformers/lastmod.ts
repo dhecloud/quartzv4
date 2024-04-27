@@ -12,8 +12,30 @@ const defaultOptions: Options = {
   priority: ["frontmatter", "git", "filesystem"],
 }
 
+export function rearrangeDate(dateString: string): string {
+  // Ensure dateString is a string
+  const dateStringStr = String(dateString);
+
+  // Check if dateString matches the format "DD-MM-YYYY"
+  const regex = /^\d{2}-\d{2}-\d{4}$/;
+  if (!regex.test(dateStringStr)) {
+    // If not in the correct format, return the original string
+    return dateStringStr;
+  }
+
+  // Split the date string by "-"
+  const parts = dateStringStr.split("-");
+
+  // Rearrange the parts
+  const rearrangedDate = `${parts[1]}-${parts[0]}-${parts[2]}`;
+
+  return rearrangedDate;
+}
+
+
+
 function coerceDate(fp: string, d: any): Date {
-  const dt = new Date(d)
+  const dt = new Date(rearrangeDate(d))
   const invalidDate = isNaN(dt.getTime()) || dt.getTime() === 0
   if (invalidDate && d !== undefined) {
     console.log(
@@ -44,6 +66,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
 
             const fp = file.data.filePath!
             const fullFp = path.posix.join(file.cwd, fp)
+
             for (const source of opts.priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
@@ -55,6 +78,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
                 modified ||= file.data.frontmatter.updated
                 modified ||= file.data.frontmatter["last-modified"]
                 published ||= file.data.frontmatter.publishDate
+                // console.log(created, modified, published)
               } else if (source === "git") {
                 if (!repo) {
                   repo = new Repository(file.cwd)
@@ -64,8 +88,10 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options> | und
               }
             }
 
+
             file.data.dates = {
               created: coerceDate(fp, created),
+
               modified: coerceDate(fp, modified),
               published: coerceDate(fp, published),
             }
