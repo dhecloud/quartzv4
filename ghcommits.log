@@ -10613,3 +10613,18 @@ After doing this, you may fix the identity used for this commit with:
 
  4 files changed, 308 insertions(+), 7 deletions(-)
  create mode 100644 "content/Japanese/\343\201\237\343\201\213\343\201\223\345\205\210\347\224\237 italki \350\251\261\343\201\227\343\201\246\347\267\264\347\277\2223 200423.md"
+[main 05a04096] scheduled commit
+ Committer: Andrew <andrew@Andrews-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 7 insertions(+), 7 deletions(-)
