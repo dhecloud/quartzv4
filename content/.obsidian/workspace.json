@@ -16,10 +16,25 @@
                 "file": "Japanese/たかこ先生 italki 会話の練習13 210724.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "たかこ先生 italki 会話の練習13 210724"
+            }
+          },
+          {
+            "id": "11296462eed8fa55",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +53,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Japanese/たかこ先生 italki 会話の練習13 210724.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +125,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Japanese/たかこ先生 italki 会話の練習13 210724.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,8 +139,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +153,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Japanese/たかこ先生 italki 会話の練習13 210724.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "podcast_player_view",
-              "state": {}
+              "state": {},
+              "icon": "play-circle",
+              "title": "Podcast Player"
             }
           }
         ]
@@ -163,8 +199,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a6892273821ce34",
+  "active": "11296462eed8fa55",
   "lastOpenFiles": [
+    "Charles Mackay.md",
     "Japanese/たかこ先生 italki 会話の練習13 210724.md",
     "Japanese/たかこ先生 italki 会話の練習11 060724.md",
     "Japanese/たかこ先生 italki 会話の練習12 140724.md",
@@ -190,7 +227,6 @@
     "index.md",
     "Japanese/Japanese Sentence Structures.md",
     "Japanese/たかこ先生 italki 話して練習2 110424.md",
-    "Japanese/Japanese Numbers.md",
     "Japanese",
     "attachments/Pasted image 20240329111921.png",
     "Untitled 1.canvas",
